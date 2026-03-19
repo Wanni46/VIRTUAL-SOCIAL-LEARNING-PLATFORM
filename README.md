@@ -1,4 +1,4 @@
-# VSGNSMP
+# VIRTUAL SOCIAL LEARNING PLATFORM
 
 A collaborative learning platform built with Flask. It supports student study group management, workshop distribution, and institution-wide announcements, with role-based access for students, instructors, and admins.
 
